@@ -39,7 +39,7 @@ Unless of course they flop a full house:
 
 ```
 $ bazel-bin/main --self="s,14;h,14" --opp="d,2;c,7" --board="c,2;h,7;d,7"
-$
+
 $ Your cards: A♠, A❤
 $ Opponent's cards: 2♦, 7♣
 $ Board: 2♣, 7❤, 7♦

@@ -1,7 +1,7 @@
 # Poker Simulator
-This binary was inspired by an R [library](http://github.com/ravds/HoldemHands) my friend Robbie wrote to find winning hands in poker.
+*This binary was inspired by an [R library](http://github.com/ravds/HoldemHands) my friend Robbie wrote to find winning hands in poker.*
 
-This binary gives you the exact and approximate [odds](https://www.cardplayer.com/poker-tools/odds-calculator/texas-holdem) of winning a round of poker, given a pair of hands and a board.
+It uses Monte-Carlo simulation (and backtracking) to give you the approximate (and exact) [odds](https://www.cardplayer.com/poker-tools/odds-calculator/texas-holdem) of winning a round of poker, given a pair of hands and a board.
 
 ## Monte-Carlo
 

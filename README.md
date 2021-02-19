@@ -1,7 +1,7 @@
 # Poker Simulator
 My friend Robbie wrote a [library](http://github.com/ravds/HoldemHands) in R to calculate the [odds](https://www.cardplayer.com/poker-tools/odds-calculator/texas-holdem) of winning a given hand of online poker.
 
-This binary gives you the exact and approximate odds of winning the pot, given a pair of hands and a board.
+This C++ binary gives you the exact and approximate odds of winning the pot, given a pair of hands and a board.
 
 ## Monte-Carlo
 

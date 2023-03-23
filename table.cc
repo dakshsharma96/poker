@@ -1,3 +1,6 @@
+
+#In table, we evaluate which hands each player has and compare the best hand made between players
+
 #include "table.h"
 
 #include <algorithm>
